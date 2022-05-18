@@ -22,5 +22,4 @@
   <a href = "mailto:fraga.gabi97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriela-fraga97/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B4%2Far3%2B62RNWqOGuIHrH%2FdA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
-      ![Snake animation](https://github.com/gabsamaral/gabsamaral/blob/output/github-contribution-grid-snake.svg)
   </div>
