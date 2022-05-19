@@ -1,7 +1,6 @@
 ## Olá!! Eu sou Gabriela Amaral
 
-- 🌱 Sou estudante de Análise e Desenvolvimento de Sistema
-- 🤔 em busca de novos conhecimentos na área de T.I
+- Sou estudante de Análise e Desenvolvimento de Sistema 👩‍💻🖥️
 
 <div align="center">
   <a href="https://github.com/gabsamaral">
