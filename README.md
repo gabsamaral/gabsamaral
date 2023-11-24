@@ -1,6 +1,6 @@
 ## Olá!! Eu sou Gabriela Amaral
 
-- Sou estudante de Análise e Desenvolvimento de Sistema 👩‍💻🖥️
+- Sou estudante de Gestão da Tecnologia da Informação 👩‍💻🖥️
 
 <div align="center">
   <a href="https://github.com/gabsamaral">
